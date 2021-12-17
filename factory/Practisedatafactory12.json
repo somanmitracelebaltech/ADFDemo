@@ -1,0 +1,9 @@
+{
+	"name": "Practisedatafactory12",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3d58f4dd-bd9b-427c-b669-59b5871ca2fe",
+		"tenantId": "e4e34038-ea1f-4882-b6e8-ccd776459ca0"
+	}
+}
